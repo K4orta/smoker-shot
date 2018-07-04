@@ -1,0 +1,22 @@
+{
+  "name": "smoker-shot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K4orta/smoker-shot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/K4orta/smoker-shot/issues"
+  },
+  "homepage": "https://github.com/K4orta/smoker-shot#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
